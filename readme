@@ -1,0 +1,6 @@
+1. do the installation of node packages in both the files 
+(backend and reward )
+2. run the server by "npm start" on backend folder
+3. run the client by "npm start" on reward folder.
+4. if there is any error like check the internet connection. note that
+    your server is not validated please contact me at pandeyroshan887@gmail.com
